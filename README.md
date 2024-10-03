@@ -19,14 +19,14 @@ Project Detail
 
 1. Data Preparation and Transformation
 
-       •	 Power Query for ETL
-       •   Seamless Data Integration
+       • Power Query for ETL
+       • Seamless Data Integration
 
 2. Key Metrics and Performance Indicators
 
-       •	  Runs, Strike Rate, and Averages
-       •    Comparison Metrics
-       •	  DAX Custom Calculations
+       • Runs, Strike Rate, and Averages
+       • Comparison Metrics
+       • DAX Custom Calculations
 
 3. Interactive Dashboards
 
